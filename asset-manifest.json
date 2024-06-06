@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zal/static/css/main.450bcd82.css",
-    "main.js": "/zal/static/js/main.89282fd2.js",
+    "main.js": "/zal/static/js/main.d988fc63.js",
     "static/js/453.ad6eb26e.chunk.js": "/zal/static/js/453.ad6eb26e.chunk.js",
     "static/media/news5.jpg": "/zal/static/media/news5.289d5afb06052e1714f5.jpg",
     "static/media/news4.jpg": "/zal/static/media/news4.66dd77b00ce89032a863.jpg",
@@ -16,11 +16,11 @@
     "static/media/szczeliniec.jpg": "/zal/static/media/szczeliniec.26b8227218e77c7239a7.jpg",
     "index.html": "/zal/index.html",
     "main.450bcd82.css.map": "/zal/static/css/main.450bcd82.css.map",
-    "main.89282fd2.js.map": "/zal/static/js/main.89282fd2.js.map",
+    "main.d988fc63.js.map": "/zal/static/js/main.d988fc63.js.map",
     "453.ad6eb26e.chunk.js.map": "/zal/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.450bcd82.css",
-    "static/js/main.89282fd2.js"
+    "static/js/main.d988fc63.js"
   ]
 }
